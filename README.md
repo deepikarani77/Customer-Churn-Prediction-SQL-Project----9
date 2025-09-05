@@ -1,3 +1,84 @@
+✨ **Excited to share my latest project!** ✨
+
+**Project Name: Customer-Churn-Prediction SQL Project Working with views**
+
+
+🚀 **Problem Statement**
+
+-	Customer churn is a major business challenge. SQL Views help in organizing churn-related 
+       queries efficiently, enabling insights for churn prediction.
+
+🚀 **Solution**
+      
+-	We created views for active customers, churned customers, contracts, and high-value users. We used 
+ALTER, RENAME, processing algorithms, updatable views, and CHECK OPTIONS to ensure 
+data consistency and easy analytics.
+
+
+🚀 **concepts used in this project**.
+
+1.	Define Sql views and View manipulation method 
+2.	Altering and renaming views
+3.	View processing algorithms 
+4.	Updatable views 
+5.	Creating views using 
+-	check option local 
+-	cascaded check option 
+-	local check option 
+
+🚀 **Goal**: 
+
+-	To design and manipulate SQL Views for better query performance, maintainability, and accurate customer churn reporting.
+
+🚀 **Tech stack**: 
+
+-	Database: MySQL
+-	Dataset: Customer Churn Dataset
+-	Tools: SQL Workbench / MySQL CLI
+
+🚀 **Tech Used**
+
+-	SQL Views (CREATE, ALTER, DROP, RENAME)
+-	MERGE and TEMPTABLE algorithms
+-	Updatable Views
+-	CHECK OPTION (Local, Cascaded)
+
+
+🚀 **Key skills shown**: 
+
+-	SQL query optimization
+-	Data consistency management
+-	Business logic enforcement using views
+
+
+
+
+🚀 **What I did in this project**?
+
+-	Built churn-specific SQL views
+-	Applied constraints with CHECK OPTION
+-	Updated data using views
+-	Showcased normalization with efficient querying
+
+🚀 **What I learnt**?
+
+-	Practical use of SQL Views in business analytics
+-	Difference between MERGE and TEMPTABLE
+-	How CHECK OPTIONS enforce integrity
+
+🚀 **What is impact**?
+
+-	Improved readability and reusability of SQL queries
+-	Enhanced decision-making for customer retention strategies
+-	Showed strong SQL skills relevant to Data Science interviews
+
+🚀 **Skills Used**
+
+-	SQL Views Data Normalization Data Manipulation Churn Analytics Database Design
+
+**#CustomerChurn #SQLProject #DatabaseNormalization #SQLViews #DataScience #MySQL #ChurnPrediction #FreshersPortfolio #DataAnalytics #UpdatableViews**
+
+
 **Working with views** 
 
 
