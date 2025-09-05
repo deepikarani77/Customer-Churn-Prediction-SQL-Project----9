@@ -5,12 +5,12 @@
 
 🚀 **Problem Statement**
 
--	Customer churn is a major business challenge. SQL Views help in organizing churn-related 
-       queries efficiently, enabling insights for churn prediction.
+Customer churn is a major business challenge. SQL Views help in organizing churn-related 
+queries efficiently, enabling insights for churn prediction.
 
 🚀 **Solution**
       
--	We created views for active customers, churned customers, contracts, and high-value users. We used 
+We created views for active customers, churned customers, contracts, and high-value users. We used 
 ALTER, RENAME, processing algorithms, updatable views, and CHECK OPTIONS to ensure 
 data consistency and easy analytics.
 
@@ -74,7 +74,7 @@ data consistency and easy analytics.
 
 🚀 **Skills Used**
 
--	SQL Views Data Normalization Data Manipulation Churn Analytics Database Design
+-	**SQL Views Data Normalization Data Manipulation Churn Analytics Database Design**
 
 **#CustomerChurn #SQLProject #DatabaseNormalization #SQLViews #DataScience #MySQL #ChurnPrediction #FreshersPortfolio #DataAnalytics #UpdatableViews**
 
